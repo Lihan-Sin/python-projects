@@ -1,4 +1,4 @@
-import random
+import random 
 user_win = 0
 computer_win = 0
 opction = ["rock", "paper", "scissor"]
