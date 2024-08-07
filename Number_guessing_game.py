@@ -1,4 +1,4 @@
-import random
+    import random
 import math
 # Taking input from user.
 lower  = int(input("Enter lower boudn:- "))
